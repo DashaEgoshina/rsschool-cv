@@ -1,4 +1,4 @@
-![Daria Egoshina](\rsschool\rsschool-cv\photo.jpeg)
+![photo](https://hhcdn.ru/photo/616306449.jpeg?t=1648132868&h=WqmsTBt3FqKSm17FY6YROg)
 # Daria Egoshina
 ## Contacts: 
 * Phone: +7(999)238-55-98

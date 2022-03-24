@@ -1,4 +1,4 @@
-![photo](/rsschool-cv/616306449.jpeg "Дарья Егошина")
+![photo](/rsschool-cv/img/616306449.jpeg "Дарья Егошина")
 # Daria Egoshina
 ## Contacts: 
 * Phone: +7(999)238-55-98

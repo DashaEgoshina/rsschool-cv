@@ -15,9 +15,9 @@
 ## Code example:
 ``` <p> Today i dont know how to write in java script, but i try to do it tomorrow!</p> ```
 ## Work experience:
-* [Technomart] (https://github.com/DashaEgoshina/125649-technomart "Technomart project")
+* Technomart project: https://github.com/DashaEgoshina/125649-technomart 
 ## Education:
-* [Basic HTML and CSS] (https://htmlacademy.ru/ "htmlacademy")
+* Basic HTML and CSS: https://htmlacademy.ru
 ## Language:
 * Russian - Native
 * English - Elementary
